@@ -3,17 +3,18 @@ h1 {
   color:Purple;
   font-size: 60px;
   border: 25px solid red;
-  text-shadow:3px 3px black;
-}
+  text-shadow:3px 3px black;}
 p1, p2, p3 {  display: flex;
 flex-direction:column}
+h2 {font-size:30px; color: solid lightblue}
 
 p1, p2, p3{font-size: 30px;  border: 10px solid green;}
 p1{color: Blue;}
 p2{color: Orange;}
-p3{color:Magenta;}
+p3{color:Purple;}
 h5, h6 {font-size: 50px;}
 p4{font-size: 30px;  color: solid Red;}
+p5{font-size: 30px;  color: solid lightblue;}
 p{font-size: 28px;  border: 10px solid green;}
 img4{display: flex; flex-direction:column}
 p4{flex-direction: column-reverse;}
